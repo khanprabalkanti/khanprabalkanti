@@ -18,7 +18,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Electronics & Communication Engineering** (3rd Year)
-- 💡 Passionate about **Web Development, DSA, Embedded Systems, and Robotics**
+- 💡 Passionate about **Web Development(Front-End, DSA, Embedded Systems, and Robotics**
 - 🛠️ I love building DIY & automation projects using microcontrollers, sensors, and solar tech
 - 📺 I teach and share my innovations on my YouTube channel [TechanicZ](https://www.youtube.com/c/TechanicZ)
 - 👨‍🏫 Ex-STEM Innovation Engineer @ STEMROBO Technologies
@@ -28,10 +28,10 @@
 
 ### 💻 Languages & Skills
 
-- 📚 **Languages**: C, C++, HTML, CSS, JavaScript, Arduino C
+- 📚 **Languages**: C, C++, HTML, CSS, JavaScript
 - 💻 **DSA**: Learned and practiced Data Structures & Algorithms
 - 🔌 **Electronics**: Raspberry Pi, Arduino, Sensors, Robotics, Home Automation
-- ⚙️ **Other Tools**: Git, VS Code, Tinkercad, Proteus, basic PLC & SCADA
+- ⚙️ **Other Tools**: Git, VS Code, Tinkercad, basic PLC & SCADA
 
 ---
 
