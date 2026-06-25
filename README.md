@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=800&lines=Final-Year+B.Tech+ECE+(2026);Embedded+Systems+%26+IoT+Developer;Hardware+Troubleshooting+%26+Assembly;Content+Creator+%40+TechanicZ" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=800&lines=B.Tech+ECE+Graduate+(2026);Embedded+Systems+%26+IoT+Developer;Hardware+Troubleshooting+%26+Assembly;Content+Creator+%40+TechanicZ" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ class PrabalKantiKhan:
         self.mantra      = "Build things that make life easier. Learn things that make you sharper."
 ```
 
-- 🎓 Final-year **B.Tech – Electronics & Communication Engineering** @ Heritage Institute of Technology, Kolkata
+- 🎓 **B.Tech – Electronics & Communication Engineering** Graduate @ Heritage Institute of Technology, Kolkata (2026)
 - 🔧 I build complete **IoT & embedded systems** — from **circuit design and bare-metal firmware** to **cloud dashboards** and **wireless communication**
 - 🛠️ Hands-on with **electro-mechanical assembly, hardware troubleshooting & diagnostics** (multimeter, oscilloscope) and **reading schematics / PCB layouts**
 - 🌱 Built a **LoRa-based Agriculture Automation System** — a dual-node, off-grid smart-farming ecosystem (ESP32 · LoRa · MQTT · solar)
@@ -85,7 +85,6 @@ class PrabalKantiKhan:
 
 ### 🧰 Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
